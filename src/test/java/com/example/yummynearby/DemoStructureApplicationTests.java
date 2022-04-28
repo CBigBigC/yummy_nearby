@@ -1,4 +1,4 @@
-package com.example.demostructure;
+package com.example.yummynearby;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
